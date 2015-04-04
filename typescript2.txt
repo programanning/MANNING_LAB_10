@@ -1,0 +1,391 @@
+Script started on Thu 02 Apr 2015 11:13:09 PM PDT
+]0;erikamanning@ubuntu: ~/cs202/projects/project8erikamanning@ubuntu:~/cs202/projects/project8$ exit./project8
+Five Card Draw
+
+Menu
+
+1. Read Deck from File
+2. Shuffle Deck
+3. Read players From File
+4. Deal Cards
+5. Print Unshuffled Deck
+6. Print Shuffled Deck
+7. Print Discard and Stock
+8. Print Player List
+9. Testing 1,2,3
+10. Quit
+Enter number of selection: 1
+Enter file name: deck.txt
+Menu
+
+1. Read Deck from File
+2. Shuffle Deck
+3. Read players From File
+4. Deal Cards
+5. Print Unshuffled Deck
+6. Print Shuffled Deck
+7. Print Discard and Stock
+8. Print Player List
+9. Testing 1,2,3
+10. Quit
+Enter number of selection: 2
+Menu
+
+1. Read Deck from File
+2. Shuffle Deck
+3. Read players From File
+4. Deal Cards
+5. Print Unshuffled Deck
+6. Print Shuffled Deck
+7. Print Discard and Stock
+8. Print Player List
+9. Testing 1,2,3
+10. Quit
+Enter number of selection: 3
+How many players? 8
+
+Enter file name: players.txt
+Menu
+
+1. Read Deck from File
+2. Shuffle Deck
+3. Read players From File
+4. Deal Cards
+5. Print Unshuffled Deck
+6. Print Shuffled Deck
+7. Print Discard and Stock
+8. Print Player List
+9. Testing 1,2,3
+10. Quit
+Enter number of selection: 4
+Menu
+
+1. Read Deck from File
+2. Shuffle Deck
+3. Read players From File
+4. Deal Cards
+5. Print Unshuffled Deck
+6. Print Shuffled Deck
+7. Print Discard and Stock
+8. Print Player List
+9. Testing 1,2,3
+10. Quit
+Enter number of selection: 5
+Unshuffled Deck: 
+heart, two, location
+heart, three, location
+heart, four, location
+heart, five, location
+heart, six, location
+heart, seven, location
+heart, eight, location
+heart, nine, location
+heart, ten, location
+heart, jack, location
+heart, queen, location
+heart, king, location
+heart, ace, location
+club, two, location
+club, three, location
+club, four, location
+club, five, location
+club, six, location
+club, seven, location
+club, eight, location
+club, nine, location
+club, ten, location
+club, jack, location
+club, queen, location
+club, king, location
+club, ace, location
+diamond, two, location
+diamond, three, location
+diamond, four, location
+diamond, five, location
+diamond, six, location
+diamond, seven, location
+diamond, eight, location
+diamond, nine, location
+diamond, ten, location
+diamond, jack, location
+diamond, queen, location
+diamond, king, location
+diamond, ace, location
+spade, two, location
+spade, three, location
+spade, four, location
+spade, five, location
+spade, six, location
+spade, seven, location
+spade, eight, location
+spade, nine, location
+spade, ten, location
+spade, jack, location
+spade, queen, location
+spade, king, location
+spade, ace, location
+
+Menu
+
+1. Read Deck from File
+2. Shuffle Deck
+3. Read players From File
+4. Deal Cards
+5. Print Unshuffled Deck
+6. Print Shuffled Deck
+7. Print Discard and Stock
+8. Print Player List
+9. Testing 1,2,3
+10. Quit
+Enter number of selection: 6
+Shuffled Deck: 
+diamond, ten, location
+club, king, location
+spade, six, location
+club, nine, location
+heart, ace, location
+heart, four, location
+club, ten, location
+diamond, five, location
+heart, ten, location
+diamond, two, location
+diamond, ace, location
+spade, ace, location
+club, five, location
+spade, ten, location
+club, seven, location
+heart, king, location
+diamond, king, location
+spade, five, location
+diamond, jack, location
+heart, nine, location
+diamond, seven, location
+club, two, location
+spade, two, location
+spade, four, location
+heart, eight, location
+club, eight, location
+diamond, three, location
+heart, two, location
+spade, seven, location
+club, four, location
+club, ace, location
+club, six, location
+spade, queen, location
+spade, three, location
+diamond, six, location
+spade, eight, location
+spade, king, location
+heart, seven, location
+heart, three, location
+heart, six, location
+club, jack, location
+diamond, four, location
+heart, jack, location
+club, three, location
+heart, five, location
+diamond, queen, location
+spade, nine, location
+diamond, nine, location
+spade, jack, location
+club, queen, location
+diamond, eight, location
+heart, queen, location
+
+Menu
+
+1. Read Deck from File
+2. Shuffle Deck
+3. Read players From File
+4. Deal Cards
+5. Print Unshuffled Deck
+6. Print Shuffled Deck
+7. Print Discard and Stock
+8. Print Player List
+9. Testing 1,2,3
+10. Quit
+Enter number of selection: 7
+Discard: 
+club, jack, location
+
+diamond, four, location
+heart, jack, location
+club, three, location
+heart, five, location
+diamond, queen, location
+spade, nine, location
+diamond, nine, location
+spade, jack, location
+club, queen, location
+diamond, eight, location
+heart, queen, location
+
+Menu
+
+1. Read Deck from File
+2. Shuffle Deck
+3. Read players From File
+4. Deal Cards
+5. Print Unshuffled Deck
+6. Print Shuffled Deck
+7. Print Discard and Stock
+8. Print Player List
+9. Testing 1,2,3
+10. Quit
+Enter number of selection: 8
+Players: 
+
+Name : Gandalf Grey
+Hand: 
+diamond, ten, location
+
+heart, ten, location
+
+diamond, king, location
+
+heart, eight, location
+
+spade, queen, location
+
+Bet: 0
+
+Name : Alex Wittmann
+Hand: 
+club, king, location
+
+diamond, two, location
+
+spade, five, location
+
+club, eight, location
+
+spade, three, location
+
+Bet: 0
+
+Name : Hingle McCringleberry
+Hand: 
+spade, six, location
+
+diamond, ace, location
+
+diamond, jack, location
+
+diamond, three, location
+
+diamond, six, location
+
+Bet: 0
+
+Name : Frodo Baggins
+Hand: 
+club, nine, location
+
+spade, ace, location
+
+heart, nine, location
+
+heart, two, location
+
+spade, eight, location
+
+Bet: 0
+
+Name : Ted Mosbey
+Hand: 
+heart, ace, location
+
+club, five, location
+
+diamond, seven, location
+
+spade, seven, location
+
+spade, king, location
+
+Bet: 0
+
+Name : AJ Zunino
+Hand: 
+heart, four, location
+
+spade, ten, location
+
+club, two, location
+
+club, four, location
+
+heart, seven, location
+
+Bet: 0
+
+Name : Kayleena Witty
+Hand: 
+club, ten, location
+
+club, seven, location
+
+spade, two, location
+
+club, ace, location
+
+heart, three, location
+
+Bet: 0
+
+Name : Erika Manning
+Hand: 
+diamond, five, location
+
+heart, king, location
+
+spade, four, location
+
+club, six, location
+
+heart, six, location
+
+Bet: 0
+
+Menu
+
+1. Read Deck from File
+2. Shuffle Deck
+3. Read players From File
+4. Deal Cards
+5. Print Unshuffled Deck
+6. Print Shuffled Deck
+7. Print Discard and Stock
+8. Print Player List
+9. Testing 1,2,3
+10. Quit
+Enter number of selection: 9
+Card 1: club, two, location
+
+Card 2: club, king, location
+
+Card 1 is NOT of greater than or equal value than Card 2
+Card 3: club, nine, location
+
+Card 4: club, eight, location
+
+Card 3 is NOT of less than or equal value than Card 4
+Card from unshuffled deck: club, ten, location
+
+Test card made from copy constructor: club, ten, location
+
+Menu
+
+1. Read Deck from File
+2. Shuffle Deck
+3. Read players From File
+4. Deal Cards
+5. Print Unshuffled Deck
+6. Print Shuffled Deck
+7. Print Discard and Stock
+8. Print Player List
+9. Testing 1,2,3
+10. Quit
+Enter number of selection: 10
+]0;erikamanning@ubuntu: ~/cs202/projects/project8erikamanning@ubuntu:~/cs202/projects/project8$ exit
+Script done on Thu 02 Apr 2015 11:14:44 PM PDT
